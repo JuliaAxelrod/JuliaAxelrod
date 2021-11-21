@@ -1,0 +1,9 @@
+This is a test of committing the file to the GitHub.
+From my first  HTML
+<p>
+        My favorite quote is by John Lennon
+
+    <blockquote>Life is what happens to you while you’re busy making other plans.</blockquote>
+
+    It reminds me to see past the mundane and focus on the meaningful.
+</p>
